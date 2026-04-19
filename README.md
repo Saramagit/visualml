@@ -5,7 +5,7 @@ An interactive lab for seven foundational machine-learning methods. Drag the dat
 ![Preview](<img width="800" height="468" alt="preview" src="https://github.com/user-attachments/assets/dcbb6759-60ed-411d-97a9-ce82bd452f43" />
 )
 
-**Live site:** [saramagit.github.io/mlexplainer](https://saramagit.github.io/mlexplainer/)
+**Live site:** [saramagit.github.io/mlexplainer](https://saramagit.github.io/visualml/)
 
 ## What's inside
 
